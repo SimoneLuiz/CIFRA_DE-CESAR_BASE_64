@@ -1,0 +1,84 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap");
+
+body {
+  margin: 0px;
+  background-color: black;
+  background-image: url("../assets/cifraDeCesar.png");
+  color: #33303d;
+  display: flex;
+  flex-flow: column wrap;
+  align-items: center;
+  justify-content: center;
+  justify-items: center;
+  width: 100vw;
+  height: 100vh;
+  font-family: "Poppins", sans-serif;
+  color: white;
+}
+
+label {
+  font-size: larger;
+}
+
+.container {
+  display: flex;
+  flex-flow: column wrap;
+  align-items: center;
+  justify-content: center;
+  justify-items: center;
+  padding: 2rem;
+  width: fit-content;
+  height: fit-content;
+  border: solid 2px #33303d;
+  border-radius: 15px;
+  box-shadow: 0 0 0.5rem black;
+  background-color: rgba(0, 0, 0, 0.4);
+  gap: 10px;
+  gap: 10px 20px;
+  row-gap: 10px;
+  column-gap: 20px;
+}
+
+.input-box {
+  display: flex;
+  flex-flow: column wrap;
+  align-items: center;
+  justify-content: center;
+  justify-items: center;
+}
+
+.input-box label {
+  width: 15rem;
+  text-align: left;
+  font-size: larger;
+}
+
+.input-box input {
+  width: 15rem;
+  height: 2rem;
+  font-size: larger;
+}
+
+.input-box select {
+  width: 15rem;
+  height: 2rem;
+  font-size: larger;
+}
+
+.container button {
+  width: 15rem;
+  height: 2rem;
+  font-size: larger;
+  cursor: pointer;
+  font-size: larger;
+}
+
+.input-box .result {
+  width: 15rem;
+  height: 4rem;
+}
+
+#resultado:disabled {
+  background-color: white !important;
+  color: black;
+}
