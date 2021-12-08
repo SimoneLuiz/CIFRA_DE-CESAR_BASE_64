@@ -22,7 +22,6 @@ const metodo = (value) => {
 
 function codificar(mensagem) {
   var palavracodificada = btoa(mensagem);
-  console.log(palavracodificada);
   document.getElementById("resultado").value = palavracodificada;
 }
 function decodificar(mensagem) {
