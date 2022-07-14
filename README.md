@@ -4,8 +4,8 @@
 
 ## *🛠️ Construído com*
 Ferramentas utilizadas:
-* *Javascript 
-* *Css
+* *Javascript* 
+* *Css*
 
 ## Imagens 
 [Resumo] *As imagens de background foram escolhidas com a itenção de respresentar históricamente 
