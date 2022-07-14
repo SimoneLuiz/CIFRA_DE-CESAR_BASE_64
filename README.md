@@ -12,8 +12,9 @@ Ferramentas utilizadas:
 a Cifra de césar , que era usada com uma troca de três posições para proteger mensagens de significado militar
 e Base64 que é um método para codificação de dados para transferência na Internet.
 
-<img width="460" height="300 src="./assets/base64.png">
-
+<p align="center">
+  <img width="460" height="300" src="./assets/base64.png">
+</p>
 
 
 ## *🙋🏻‍♀️Autores*
