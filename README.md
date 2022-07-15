@@ -13,8 +13,8 @@ a Cifra de césar , que era usada com uma troca de três posições para protege
 e Base64 que é um método para codificação de dados para transferência na Internet.*
 
 <p align="center">
-  <img width="460" height="300" src="./assets/base64PAgina.png">
-   <img width="460" height="300" src="./assets/cifraDeCesarPagina.png">
+  <img width="460" height="300" src="./assets/Base64PAgina.png">
+   <img width="460" height="300" src="./assets/CifraDeCesarPagina.png">
 </p>
 
 ## *🙋🏻‍♀️Autores*
